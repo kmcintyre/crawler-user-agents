@@ -43,6 +43,7 @@
     "Amazon CloudFront": "Amazon CloudFront",
     "Mozilla/5.0 (compatible; AndersPinkBot/1.0; +http://anderspink.com/bot.html)": "AndersPinkBot",
     "Mozilla/5.0 (compatible; U; AnyEvent-HTTP/2.24; +http://software.schmorp.de/pkg/AnyEvent)": "AnyEvent",
+    "Apache-HttpClient/4.4.1 (Java/1.8.0_121)": "Apache-HttpClient",
     "Apache-HttpClient/4.4.1 (Java/1.8.0_65)": "Apache-HttpClient",
     "Apache-HttpClient/4.3.3 (java 1.5)": "Apache-HttpClient",
     "Apache-HttpClient/4.3.1 (java 1.5)": "Apache-HttpClient",
